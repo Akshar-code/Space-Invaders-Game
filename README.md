@@ -1,4 +1,4 @@
-                                                           SPACE INVADERS GAME
+                                                       SPACE INVADERS GAME
 
 Built with Pygame!
 
