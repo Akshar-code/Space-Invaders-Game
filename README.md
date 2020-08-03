@@ -1,8 +1,7 @@
                                                            SPACE INVADERS GAME
 
 Built with Pygame!
-[Link]
-(https://www.pygame.org/news)
+
 Instructions to run locally -
 1. Install the requirement and python version = 3.7
 2. Unpack the images and audio to working directory
